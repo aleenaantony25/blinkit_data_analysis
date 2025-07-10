@@ -12,19 +12,19 @@ This project involves an end-to-end Exploratory Data Analysis (EDA) of sales and
 
 * **Key Performance Indicator (KPI) Derivation:**
     * Calculated and analyzed critical KPIs to gauge overall business health:
-        * [cite_start]**Total Sales:** Overall revenue generated[cite: 8].
-        * [cite_start]**Average Sales:** Average revenue per transaction[cite: 9].
-        * [cite_start]**Number of Items:** Total count of items sold[cite: 10].
-        * [cite_start]**Average Rating:** Average customer satisfaction per item[cite: 11].
+        * **Total Sales:** Overall revenue generated.
+        * **Average Sales:** Average revenue per transaction.
+        * **Number of Items:** Total count of items sold.
+        * **Average Rating:** Average customer satisfaction per item.
 
 * **Detailed Sales & Operational Insights:**
     * Generated a variety of insightful visualizations using **Matplotlib** and **Seaborn** to explore diverse aspects of the business:
-        * [cite_start]**Total Sales by Fat Content:** Analyzed the impact of item fat content on sales performance[cite: 18].
-        * [cite_start]**Total Sales by Item Type:** Identified the sales performance of different product categories (e.g., Fruits, Snack Foods, Dairy)[cite: 22].
-        * [cite_start]**Fat Content by Outlet for Total Sales:** Compared sales across outlets, segmented by fat content[cite: 26].
-        * [cite_start]**Total Sales by Outlet Establishment:** Evaluated how the age of an outlet influences sales[cite: 40].
-        * [cite_start]**Sales by Outlet Size:** Analyzed the correlation between outlet size (Small, Medium, High) and total sales[cite: 42].
-        * [cite_start]**Sales by Outlet Location:** Assessed the geographic distribution of sales across different tiers/locations[cite: 44].
+        * **Total Sales by Fat Content:** Analyzed the impact of item fat content on sales performance.
+        * **Total Sales by Item Type:** Identified the sales performance of different product categories (e.g., Fruits, Snack Foods, Dairy).
+        * **Fat Content by Outlet for Total Sales:** Compared sales across outlets, segmented by fat content.
+        * **Total Sales by Outlet Establishment:** Evaluated how the age of an outlet influences sales.
+        * **Sales by Outlet Size:** Analyzed the correlation between outlet size (Small, Medium, High) and total sales.
+        * **Sales by Outlet Location:** Assessed the geographic distribution of sales across different tiers/locations.
         * **Sales Performance by Outlet Type:** Compared sales across different outlet formats (e.g., Supermarket Type1, Grocery Store, Supermarket Type2, Supermarket Type3) to understand their efficiency and contribution.
 
 ## Technologies Used
